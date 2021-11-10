@@ -14,4 +14,4 @@ To create a good layout and use svg
 
 ## Author
 - Frontend Mentor - [@amosmurmu](https://www.frontendmentor.io/profile/amosmurmu)
-- Twitter - [@amosmurmu](https://www.twitter.com/amosmurmu)
+- Twitter - [@amos_murmu](https://www.twitter.com/amos_murmu)
